@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Thaís 👋🏽</h1>
+<h1 align="center">Hola, soy Thaís Brandão 👋🏽</h1>
 
 <p align="center">
   <b>Data Analyst &amp; AI Strategist</b> · Bilbao, País Vasco 🇪🇸<br>
