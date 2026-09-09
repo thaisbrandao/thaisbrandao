@@ -21,7 +21,7 @@ Analista de datos y estratega de IA. Me dedico a **convertir datos en decisiones
 - 🌱 Aprendiendo **francés** (objetivo C1) y profundizando en arquitecturas de datos e ingeniería de MLOps
 - 🎯 Objetivo a medio plazo: **AI Product Manager**
 - ✨ Creadora de **aistetike** — mi marca personal sobre datos, IA y estética
-- 🗣️ **Portugués · Español · Inglés** (nivel nativo) + francés en curso
+- 🗣️ **Portugués Brasileño (nivel nativo) · Español · Inglés** + francés en curso
 
 ---
 
