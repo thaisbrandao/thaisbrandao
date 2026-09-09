@@ -75,8 +75,28 @@ También trabajo en proyectos que viven fuera de GitHub: un **chatbot de WhatsAp
 ## GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thaisbrandao&show_icons=true&hide_border=true&bg_color=00000000&title_color=EA4B71&text_color=808080&icon_color=EA4B71" alt="Estadísticas de GitHub de Thaís">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaisbrandao&layout=compact&hide_border=true&bg_color=00000000&title_color=EA4B71&text_color=808080" alt="Lenguajes más usados">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thaisbrandao&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thaisbrandao&theme=github" alt="Resumen del perfil de GitHub de Thaís">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thaisbrandao&theme=github_dark">
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thaisbrandao&theme=github" alt="Repositorios por lenguaje">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thaisbrandao&theme=github_dark">
+    <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thaisbrandao&theme=github" alt="Lenguaje con más commits">
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=thaisbrandao&theme=dark&hide_border=true&locale=es">
+    <img height="180" src="https://streak-stats.demolab.com?user=thaisbrandao&theme=default&hide_border=true&locale=es" alt="Racha de contribuciones">
+  </picture>
 </p>
 
 ---
