@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Thaís Brandão 👋🏽</h1>
+<h1 align="center">Hola, soy Thaís 👋🏽</h1>
 
 <p align="center">
   <b>Data Analyst &amp; AI Strategist</b> · Bilbao, País Vasco 🇪🇸<br>
@@ -21,7 +21,51 @@ Analista de datos y estratega de IA. Me dedico a **convertir datos en decisiones
 - 🌱 Aprendiendo **francés** (objetivo C1) y profundizando en arquitecturas de datos e ingeniería de MLOps
 - 🎯 Objetivo a medio plazo: **AI Product Manager**
 - ✨ Creadora de **aistetike** — mi marca personal sobre datos, IA y estética
-- 🗣️ **Portugués Brasileño (nivel nativo) · Español · Inglés** + francés en curso
+- 🗣️ **Portugués · Español · Inglés** (nivel nativo) + francés en curso
+
+---
+
+## 🤖 IA aplicada y agentes
+
+Sistemas donde un modelo de lenguaje toma una decisión dentro de un flujo real, no en un chat.
+
+| Proyecto | Qué hace | Stack |
+|---|---|---|
+| [**Solvia**](https://github.com/thaisbrandao/solvia-ai-scholarship-matching) | App tipo Tinder que empareja el perfil de un estudiante con becas internacionales. El LLM devuelve un % de compatibilidad **y explica qué requisitos encajan**. | LLM · Airtable · Make · n8n |
+| [**Entrevistador telefónico**](https://github.com/thaisbrandao/ai-phone-interviewer) | Llama al candidato, le hace preguntas **generadas para su puesto**, graba su respuesta y la transcribe. TwiML generado en tiempo de ejecución. | Twilio · Whisper · GPT · Sheets |
+| [**Bot de ofertas de IA**](https://github.com/thaisbrandao/ai-job-alerts-bot) | Rastrea ofertas de IA/ML cada 4 horas, las resume con un LLM y las publica ya digeridas en Telegram. | n8n · Gemini · Telegram API |
+| [**VolunteerAI Bot**](https://github.com/thaisbrandao/volunteer-ai-bot) | Agrega proyectos de voluntariado en IA de tres fuentes, deduplica por enlace y publica lo nuevo. Sheets como memoria del workflow. | n8n · OpenAI · Sheets · Telegram |
+
+## 🧠 Machine Learning y visión por computador
+
+| Proyecto | Qué hace | Stack |
+|---|---|---|
+| [**LOVSUN Intelligence**](https://github.com/thaisbrandao/lovsunIntelligence) | Motor que predice tendencias de moda de baño combinando clasificación de imágenes, series temporales y señales de búsqueda. | PyTorch (ResNet18) · Flask · D3.js |
+
+## 🏗️ Ingeniería de datos
+
+| Proyecto | Qué hace | Stack |
+|---|---|---|
+| [**AEMET Medallón**](https://github.com/thaisbrandao/aemet-medallon) | Pipeline en streaming sobre la API meteorológica de AEMET con arquitectura medallón (bronze / silver / gold). | Kafka · MinIO · MongoDB · Python |
+| [**Pipeline de datos AWS**](https://github.com/thaisbrandao/Pipeline-datos-AWS) | Pipeline end-to-end desplegado sobre servicios de AWS. | Python · AWS |
+| [**dbt**](https://github.com/thaisbrandao/dbt) | Modelado analítico y transformaciones versionadas: staging, marts y tests. | dbt · SQL · Python |
+
+## 📊 Analítica y visualización
+
+| Proyecto | Qué hace | Stack |
+|---|---|---|
+| [**Power BI · Chinook**](https://github.com/thaisbrandao/powerbi-chinook) | Modelo en estrella y medidas DAX sobre el dataset Chinook. | Power BI · DAX |
+
+## 🧪 Experimentos
+
+| Proyecto | Qué hace | Stack |
+|---|---|---|
+| [**fortune-cookie**](https://github.com/thaisbrandao/fortune-cookie) | Experimento pequeño y sin pretensiones. | TypeScript |
+
+## 💼 Fuera de GitHub
+
+- **Chatbot de WhatsApp para un despacho de extranjería** en Bilbao — agente de IA en n8n conectado a la WhatsApp Business API, resolviendo consultas de clientes reales.
+- **UnToque** — negocio de soluciones NFC para hostelería y comercio local: placas de reseñas de Google, tarjetas de contacto digitales y cartas de restaurante.
 
 ---
 
@@ -54,21 +98,6 @@ Analista de datos y estratega de IA. Me dedico a **convertir datos en decisiones
 ![Make](https://img.shields.io/badge/Make-6D00CC?style=flat-square&logo=make&logoColor=white)
 ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
----
-
-## Proyectos destacados
-
-| Proyecto | De qué va | Stack |
-|---|---|---|
-| [**LOVSUN Intelligence**](https://github.com/thaisbrandao/lovsunIntelligence) | Motor de IA que predice tendencias de moda de baño combinando visión por computador, series temporales y scraping de Google Trends. Dashboard con estética *weather report*. | PyTorch (ResNet18) · Flask · D3.js |
-| [**AEMET Medallón**](https://github.com/thaisbrandao/aemet-medallon) | Pipeline en tiempo real sobre la API meteorológica de AEMET con arquitectura medallón (bronze/silver/gold). | Kafka · MinIO · MongoDB · Python |
-| [**Pipeline de datos AWS**](https://github.com/thaisbrandao/Pipeline-datos-AWS) | Pipeline de datos end-to-end desplegado sobre servicios de AWS. | Python · AWS |
-| [**dbt**](https://github.com/thaisbrandao/dbt) | Modelado analítico y transformaciones versionadas con dbt. | dbt · SQL · Python |
-| [**Power BI · Chinook**](https://github.com/thaisbrandao/powerbi-chinook) | Modelo en estrella y medidas DAX sobre el dataset Chinook. | Power BI · DAX |
-| [**fortune-cookie**](https://github.com/thaisbrandao/fortune-cookie) | Experimento pequeño y divertido en TypeScript. | TypeScript |
-
-También trabajo en proyectos que viven fuera de GitHub: un **chatbot de WhatsApp con IA** para un despacho de extranjería en Bilbao (n8n + WhatsApp Business API) y **UnToque**, un negocio de soluciones NFC para hostelería y comercio local.
 
 ---
 
