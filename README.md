@@ -21,7 +21,7 @@ Analista de datos y estratega de IA. Me dedico a **convertir datos en decisiones
 - 🌱 Aprendiendo **francés** (objetivo C1) y profundizando en arquitecturas de datos e ingeniería de MLOps
 - 🎯 Objetivo a medio plazo: **AI Product Manager**
 - ✨ Creadora de **aistetike** — mi marca personal sobre datos, IA y estética
-- 🗣️ **Portugués · Español · Inglés** (nivel nativo) + francés en curso
+- 🗣️ **Portugués Brasileño (nativo)· Español · Inglés** + francés en curso
 
 ---
 
@@ -31,16 +31,20 @@ Sistemas donde un modelo de lenguaje toma una decisión dentro de un flujo real,
 
 | Proyecto | Qué hace | Stack |
 |---|---|---|
-| [**Solvia**](https://github.com/thaisbrandao/solvia-ai-scholarship-matching) | App tipo Tinder que empareja el perfil de un estudiante con becas internacionales. El LLM devuelve un % de compatibilidad **y explica qué requisitos encajan**. | LLM · Airtable · Make · n8n |
-| [**Entrevistador telefónico**](https://github.com/thaisbrandao/ai-phone-interviewer) | Llama al candidato, le hace preguntas **generadas para su puesto**, graba su respuesta y la transcribe. TwiML generado en tiempo de ejecución. | Twilio · Whisper · GPT · Sheets |
-| [**Bot de ofertas de IA**](https://github.com/thaisbrandao/ai-job-alerts-bot) | Rastrea ofertas de IA/ML cada 4 horas, las resume con un LLM y las publica ya digeridas en Telegram. | n8n · Gemini · Telegram API |
-| [**VolunteerAI Bot**](https://github.com/thaisbrandao/volunteer-ai-bot) | Agrega proyectos de voluntariado en IA de tres fuentes, deduplica por enlace y publica lo nuevo. Sheets como memoria del workflow. | n8n · OpenAI · Sheets · Telegram |
+| [**Solvia**](https://github.com/thaisbrandao/solvia-ai-scholarship-matching) | App tipo Tinder que empareja el perfil de un estudiante con becas internacionales. El LLM devuelve un % de compatibilidad **y explica qué requisitos encajan**. 
+|  A Tinder-like app that matches a student's profile with international scholarships. The LLM returns a compatibility percentage **and explains which requirements match**. | LLM · Airtable · Make · n8n |
+| [**Entrevistador telefónico**](https://github.com/thaisbrandao/ai-phone-interviewer) | Llama al candidato, le hace preguntas **generadas para su puesto**, graba su respuesta y la transcribe. TwiML generado en tiempo de ejecución.
+| It calls the candidate, asks them questions **tailored to their position**, records their response, and transcribes it. TwiML generated at runtime| n8n · Twilio · Whisper · GPT · Sheets |
+| [**Bot de ofertas de IA**](https://github.com/thaisbrandao/ai-job-alerts-bot) | Rastrea ofertas de IA/ML cada 4 horas, las resume con un LLM y las publica ya digeridas en Telegram.
+| It scans for AI/ML job postings every 4 hours, summarizes them using an LLM, and posts the summarized versions on Telegram.| n8n · Gemini · Telegram API |
+| [**VolunteerAI Bot**](https://github.com/thaisbrandao/volunteer-ai-bot) | Agrega proyectos de voluntariado en IA de tres fuentes, deduplica por enlace y publica lo nuevo. Sheets como memoria del workflow.
+| Add AI volunteer projects from three sources, deduplicate by link, and publish the new ones. Use Sheets to track the workflow.| n8n · OpenAI · Sheets · Telegram |
 
 ## 🧠 Machine Learning y visión por computador
 
 | Proyecto | Qué hace | Stack |
 |---|---|---|
-| [**LOVSUN Intelligence**](https://github.com/thaisbrandao/lovsunIntelligence) | Motor que predice tendencias de moda de baño combinando clasificación de imágenes, series temporales y señales de búsqueda. | PyTorch (ResNet18) · Flask · D3.js |
+| [**LOVSUN Intelligence**](https://github.com/thaisbrandao/lovsunIntelligence) | Motor que predice tendencias de moda de baño combinando clasificación de imágenes, series temporales y señales de búsqueda.| An engine that predicts swimwear trends by combining image classification, time series analysis, and search signals | PyTorch (ResNet18) · Flask · D3.js |
 
 ## 🏗️ Ingeniería de datos
 
@@ -60,7 +64,7 @@ Sistemas donde un modelo de lenguaje toma una decisión dentro de un flujo real,
 
 | Proyecto | Qué hace | Stack |
 |---|---|---|
-| [**fortune-cookie**](https://github.com/thaisbrandao/fortune-cookie) | Experimento pequeño y sin pretensiones. | TypeScript |
+| [**fortune-cookie**](https://github.com/thaisbrandao/fortune-cookie) | Experimento de cookies de la suerte con varios mensajes. | TypeScript |
 
 ## 💼 Fuera de GitHub
 
