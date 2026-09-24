@@ -12,70 +12,70 @@
 
 ---
 
-## Sobre mí
+## Sobre mí · About me
 
 Analista de datos y estratega de IA. Me dedico a **convertir datos en decisiones** y a **automatizar todo lo que no debería hacerse a mano**: pipelines, dashboards, agentes conversacionales y modelos que predicen antes de que pase.
 
-- 🔭 Trabajo en la intersección de **analítica, automatización e IA aplicada** a negocio
-- 🛠️ Construyo desde el dato crudo hasta el dashboard: ingesta → modelado → visualización → automatización
-- 🌱 Aprendiendo **francés** (objetivo C1) y profundizando en arquitecturas de datos e ingeniería de MLOps
-- 🎯 Objetivo a medio plazo: **AI Product Manager**
-- ✨ Creadora de **aistetike** — mi marca personal sobre datos, IA y estética
-- 🗣️ **Portugués Brasileño (nativo)· Español · Inglés** + francés en curso
+<sub><i>Data analyst and AI strategist. I turn data into decisions and automate everything that shouldn't be done by hand: pipelines, dashboards, conversational agents and models that predict before it happens.</i></sub>
+
+- 🔭 Trabajo en la intersección de **analítica, automatización e IA aplicada** a negocio<br><sub><i>I work where analytics, automation and applied AI meet the business.</i></sub>
+- 🛠️ Construyo desde el dato crudo hasta el dashboard: ingesta → modelado → visualización → automatización<br><sub><i>I build from raw data to dashboard: ingestion → modelling → visualisation → automation.</i></sub>
+- 🌱 Aprendiendo **francés** (objetivo C1) y profundizando en arquitecturas de datos e ingeniería de MLOps<br><sub><i>Learning French (C1 target) and going deeper into data architecture and MLOps.</i></sub>
+- 🎯 Objetivo a medio plazo: **AI Product Manager**<br><sub><i>Mid-term goal: AI Product Manager.</i></sub>
+- ✨ Creadora de **aistetike** — mi marca personal sobre datos, IA y estética<br><sub><i>Creator of aistetike — my personal brand on data, AI and aesthetics.</i></sub>
+- 🗣️ **Portugués brasileño** (nativo) · **Español** · **Inglés** · **Francés** (en curso)
 
 ---
 
-## 🤖 IA aplicada y agentes
+## 🤖 IA aplicada y agentes · Applied AI &amp; agents
 
 Sistemas donde un modelo de lenguaje toma una decisión dentro de un flujo real, no en un chat.
 
-| Proyecto | Qué hace | Stack |
+<sub><i>Systems where a language model makes a decision inside a real workflow, not inside a chat.</i></sub>
+
+| Proyecto · Project | Qué hace · What it does | Stack |
 |---|---|---|
-| [**Solvia**](https://github.com/thaisbrandao/solvia-ai-scholarship-matching) | App tipo Tinder que empareja el perfil de un estudiante con becas internacionales. El LLM devuelve un % de compatibilidad **y explica qué requisitos encajan**. 
-|  A Tinder-like app that matches a student's profile with international scholarships. The LLM returns a compatibility percentage **and explains which requirements match**. | LLM · Airtable · Make · n8n |
-| [**Entrevistador telefónico**](https://github.com/thaisbrandao/ai-phone-interviewer) | Llama al candidato, le hace preguntas **generadas para su puesto**, graba su respuesta y la transcribe. TwiML generado en tiempo de ejecución.
-| It calls the candidate, asks them questions **tailored to their position**, records their response, and transcribes it. TwiML generated at runtime| n8n · Twilio · Whisper · GPT · Sheets |
-| [**Bot de ofertas de IA**](https://github.com/thaisbrandao/ai-job-alerts-bot) | Rastrea ofertas de IA/ML cada 4 horas, las resume con un LLM y las publica ya digeridas en Telegram.
-| It scans for AI/ML job postings every 4 hours, summarizes them using an LLM, and posts the summarized versions on Telegram.| n8n · Gemini · Telegram API |
-| [**VolunteerAI Bot**](https://github.com/thaisbrandao/volunteer-ai-bot) | Agrega proyectos de voluntariado en IA de tres fuentes, deduplica por enlace y publica lo nuevo. Sheets como memoria del workflow.
-| Add AI volunteer projects from three sources, deduplicate by link, and publish the new ones. Use Sheets to track the workflow.| n8n · OpenAI · Sheets · Telegram |
+| [**Solvia**](https://github.com/thaisbrandao/solvia-ai-scholarship-matching) | App tipo Tinder que empareja el perfil de un estudiante con becas internacionales. El LLM devuelve un % de compatibilidad **y explica qué requisitos encajan**.<br><sub><i>A Tinder-like app that matches a student's profile with international scholarships. The LLM returns a compatibility score and explains which requirements match.</i></sub> | LLM · Airtable · Make · n8n |
+| [**Entrevistador telefónico**](https://github.com/thaisbrandao/ai-phone-interviewer) | Llama al candidato, le hace preguntas **generadas para su puesto**, graba su respuesta y la transcribe. TwiML generado en tiempo de ejecución.<br><sub><i>It calls the candidate, asks questions generated for their role, records the answer and transcribes it. TwiML is generated at runtime.</i></sub> | n8n · Twilio · Whisper · GPT · Sheets |
+| [**Bot de ofertas de IA**](https://github.com/thaisbrandao/ai-job-alerts-bot) | Rastrea ofertas de IA/ML cada 4 horas, las resume con un LLM y las publica ya digeridas en Telegram.<br><sub><i>It scans AI/ML job postings every 4 hours, summarises them with an LLM and posts them already digested to Telegram.</i></sub> | n8n · Gemini · Telegram API |
+| [**VolunteerAI Bot**](https://github.com/thaisbrandao/volunteer-ai-bot) | Agrega proyectos de voluntariado en IA de tres fuentes, deduplica por enlace y publica lo nuevo. Sheets como memoria del workflow.<br><sub><i>It aggregates AI volunteering projects from three sources, deduplicates by link and posts what's new. Sheets acts as the workflow's memory.</i></sub> | n8n · OpenAI · Sheets · Telegram |
 
-## 🧠 Machine Learning y visión por computador
+## 🧠 Machine Learning y visión por computador · Machine Learning &amp; Computer Vision
 
-| Proyecto | Qué hace | Stack |
+| Proyecto · Project | Qué hace · What it does | Stack |
 |---|---|---|
-| [**LOVSUN Intelligence**](https://github.com/thaisbrandao/lovsunIntelligence) | Motor que predice tendencias de moda de baño combinando clasificación de imágenes, series temporales y señales de búsqueda.| An engine that predicts swimwear trends by combining image classification, time series analysis, and search signals | PyTorch (ResNet18) · Flask · D3.js |
+| [**LOVSUN Intelligence**](https://github.com/thaisbrandao/lovsunIntelligence) | Motor que predice tendencias de moda de baño combinando clasificación de imágenes, series temporales y señales de búsqueda.<br><sub><i>An engine that predicts swimwear trends by combining image classification, time-series forecasting and search signals.</i></sub> | PyTorch (ResNet18) · Flask · D3.js |
 
-## 🏗️ Ingeniería de datos
+## 🏗️ Ingeniería de datos · Data engineering
 
-| Proyecto | Qué hace | Stack |
+| Proyecto · Project | Qué hace · What it does | Stack |
 |---|---|---|
-| [**AEMET Medallón**](https://github.com/thaisbrandao/aemet-medallon) | Pipeline en streaming sobre la API meteorológica de AEMET con arquitectura medallón (bronze / silver / gold). | Kafka · MinIO · MongoDB · Python |
-| [**Pipeline de datos AWS**](https://github.com/thaisbrandao/Pipeline-datos-AWS) | Pipeline end-to-end desplegado sobre servicios de AWS. | Python · AWS |
-| [**dbt**](https://github.com/thaisbrandao/dbt) | Modelado analítico y transformaciones versionadas: staging, marts y tests. | dbt · SQL · Python |
+| [**AEMET Medallón**](https://github.com/thaisbrandao/aemet-medallon) | Pipeline en streaming sobre la API meteorológica de AEMET con arquitectura medallón (bronze / silver / gold).<br><sub><i>Streaming pipeline over Spain's AEMET weather API with a medallion architecture (bronze / silver / gold).</i></sub> | Kafka · MinIO · MongoDB · Python |
+| [**Pipeline de datos AWS**](https://github.com/thaisbrandao/Pipeline-datos-AWS) | Pipeline end-to-end desplegado sobre servicios de AWS.<br><sub><i>End-to-end data pipeline deployed on AWS services.</i></sub> | Python · AWS |
+| [**dbt**](https://github.com/thaisbrandao/dbt) | Modelado analítico y transformaciones versionadas: staging, marts y tests.<br><sub><i>Analytical modelling and version-controlled transformations: staging, marts and tests.</i></sub> | dbt · SQL · Python |
 
-## 📊 Analítica y visualización
+## 📊 Analítica y visualización · Analytics &amp; visualisation
 
-| Proyecto | Qué hace | Stack |
+| Proyecto · Project | Qué hace · What it does | Stack |
 |---|---|---|
-| [**Power BI · Chinook**](https://github.com/thaisbrandao/powerbi-chinook) | Modelo en estrella y medidas DAX sobre el dataset Chinook. | Power BI · DAX |
+| [**Power BI · Chinook**](https://github.com/thaisbrandao/powerbi-chinook) | Modelo en estrella y medidas DAX sobre el dataset Chinook.<br><sub><i>Star schema and DAX measures over the Chinook dataset.</i></sub> | Power BI · DAX |
 
-## 🧪 Experimentos
+## 🧪 Experimentos · Experiments
 
-| Proyecto | Qué hace | Stack |
+| Proyecto · Project | Qué hace · What it does | Stack |
 |---|---|---|
-| [**fortune-cookie**](https://github.com/thaisbrandao/fortune-cookie) | Experimento de cookies de la suerte con varios mensajes. | TypeScript |
+| [**fortune-cookie**](https://github.com/thaisbrandao/fortune-cookie) | Experimento de galletas de la suerte con varios mensajes.<br><sub><i>A fortune-cookie experiment with a handful of messages.</i></sub> | TypeScript |
 
-## 💼 Fuera de GitHub
+## 💼 Fuera de GitHub · Beyond GitHub
 
-- **Chatbot de WhatsApp para un despacho de extranjería** en Bilbao — agente de IA en n8n conectado a la WhatsApp Business API, resolviendo consultas de clientes reales.
-- **UnToque** — negocio de soluciones NFC para hostelería y comercio local: placas de reseñas de Google, tarjetas de contacto digitales y cartas de restaurante.
+- **Chatbot de WhatsApp para un despacho de extranjería** en Bilbao — agente de IA en n8n conectado a la WhatsApp Business API, resolviendo consultas de clientes reales.<br><sub><i>WhatsApp chatbot for an immigration law firm in Bilbao — an n8n AI agent wired to the WhatsApp Business API, answering real client queries.</i></sub>
+- **UnToque** — negocio de soluciones NFC para hostelería y comercio local: placas de reseñas de Google, tarjetas de contacto digitales y cartas de restaurante.<br><sub><i>UnToque — an NFC business for hospitality and local retail: Google review plaques, digital contact cards and restaurant menus.</i></sub>
 
 ---
 
 ## Stack
 
-**Datos y análisis**
+**Datos y análisis · Data &amp; analytics**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -84,7 +84,7 @@ Sistemas donde un modelo de lenguaje toma una decisión dentro de un flujo real,
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 
-**Ingeniería de datos**
+**Ingeniería de datos · Data engineering**
 
 ![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
 ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
@@ -94,7 +94,7 @@ Sistemas donde un modelo de lenguaje toma una decisión dentro de un flujo real,
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-**IA y automatización**
+**IA y automatización · AI &amp; automation**
 
 ![OpenAI](https://img.shields.io/badge/OpenAI%20API-412991?style=flat-square&logo=openai&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -134,10 +134,10 @@ Sistemas donde un modelo de lenguaje toma una decisión dentro de un flujo real,
 
 ---
 
-## Hablemos
+## Hablemos · Let's talk
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/thaisbrand%C3%A3o/) — actualizaciones profesionales
-- 🌐 [aistetike.tech](https://aistetike.tech) — portfolio y proyectos
-- 📍 Bilbao · abierta a colaboraciones en datos, IA aplicada y automatización
+- 💼 [LinkedIn](https://www.linkedin.com/in/thaisbrand%C3%A3o/) — actualizaciones profesionales · *professional updates*
+- 🌐 [aistetike.tech](https://aistetike.tech) — portfolio y proyectos · *portfolio and projects*
+- 📍 Bilbao · abierta a colaboraciones en datos, IA aplicada y automatización<br><sub><i>Based in Bilbao · open to work on data, applied AI and automation.</i></sub>
 
-<p align="center"><i>«Los datos no hablan solos. Hay que hacerles buenas preguntas.»</i></p>
+<p align="center"><i>«Los datos no hablan solos. Hay que hacerles buenas preguntas.»</i><br><sub><i>"Data doesn't speak for itself. You have to ask it good questions."</i></sub></p>
